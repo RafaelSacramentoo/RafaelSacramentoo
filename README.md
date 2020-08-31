@@ -24,7 +24,7 @@ Hello, i'am Rafael Sacramento. Currently student a  UI/UX and Front-end
 
 ### Welcome to my repository! 👋 Here is gathered some of my study projects, i show my daily evolution as a beginner programmer 🏆
 
-#### 💻I'am  currently student:
+### 💻I'am  currently student:
 
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
   <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
