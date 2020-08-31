@@ -19,23 +19,25 @@ Here are some ideas to get you started:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rafael-sacramento-serra/)](https://www.linkedin.com/in/rafael-sacramento-serra/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:rafaelsacramnetoserra@gmail.com)
 
-<p><h3> Seja bem vindo ao meu repositório! 👋 aqui fica reunido alguns dos meus projetos de estudo, mostro minha minha evolução diária em busca de uma evolução diária como programador🏆.</h3></p>
+### About me :
+Hello, i'am Rafael Sacramento. Currently student a  UI/UX and Front-end
 
-<p>
-  <strong>
-    <h3> 
-      💼Trabalho com:
-      [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:rafaelsacramnetoserra@gmail.com)
-   </h3>
- </strong> 
-<p>
-   
+### Welcome to my repository! 👋 Here is gathered some of my study projects, i show my daily evolution as a beginner programmer 🏆
 
-<p>
-  <strong><h3> 
-    💻Estou estudando atualmente: 
-    
-  </h3></strong> 
-<p>
-   
+#### 💻I'am  currently student:
+
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+  <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+
+### I have interest in::
++ UI/UX 
++ Front-end 
++ Social Media Design
+
+
+
+
 
