@@ -35,7 +35,6 @@ Hello, i'am Rafael Sacramento. Product Design and front end lover
 ### I have interest in:
 + UI/UX 
 + Front-end 
-+ Social Media Design
 
 
 
