@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:rafaelsacramnetoserra@gmail.com)
 
 ### About me :
-Hello, i'am Rafael Sacramento. Currently student a  UI/UX and Front-end
+Hello, i'am Rafael Sacramento. Product Design and front end lover
 
 ### Welcome to my repository! 👋 Here is gathered some of my study projects, i show my daily evolution as a beginner programmer 🏆
 
